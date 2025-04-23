@@ -6,3 +6,6 @@
 - [Автоматизация клиентской поддержки](https://github.com/VladF12/Prompt-Engineering-Portfolio/blob/ed465abf62e052d070f449a71ffecda7489aeb75/Prompt%204%20Grok%20Customer%20Support.md)
 - [Анализ данных для веб3 проекта](https://github.com/VladF12/Prompt-Engineering-Portfolio/blob/d3039e27849e3100f73ffa45af7babac2b2228a2/Data%20analysis%20for%20a%20web3%20project.md)
 - [Продвижение музыкантов на ВКонтакте и Яндекс Музыке](https://github.com/VladF12/Prompt-Engineering-Portfolio/blob/9f4472cb9e1f9ba3ab1919a5722630a23bfde526/Promotion%20of%20musicians%20on%20VK%20and%20Yandex.Music.md)
+- [Работы с визуалом](https://github.com/VladF12/Prompt-Engineering-Portfolio/blob/7f5a3756f75309400eb2f86fd76e3a3640ffa430/Visual%20content)
+- [GitHub Gist](https://gist.github.com/VladF12)
+
