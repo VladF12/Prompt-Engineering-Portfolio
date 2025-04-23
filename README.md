@@ -4,3 +4,4 @@
 - [Генерация контента для блога: Zero-Shot vs Few-Shot](web3_blog_content_zero_vs_few_shot.md)  
 - [Классификация текстов для Web3](web3_text_classification.md)
 - [Автоматизация клиентской поддержки](https://github.com/VladF12/Prompt-Engineering-Portfolio/blob/ed465abf62e052d070f449a71ffecda7489aeb75/Prompt%204%20Grok%20Customer%20Support.md)
+- [Анализ данных для веб3 проекта](https://github.com/VladF12/Prompt-Engineering-Portfolio/blob/d3039e27849e3100f73ffa45af7babac2b2228a2/Data%20analysis%20for%20a%20web3%20project.md)
