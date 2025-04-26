@@ -7,5 +7,5 @@ Generate a marketing banner for Canva promoting the "Magic Design" feature. The 
 
 Example Result
 The generated banner showed a sleek laptop with yellow, teal, and magenta shapes and sparkles bursting from the screen, symbolizing creativity. The text "Unleash Your Creativity with Magic Design!" in Poppins font was centered, creating a vibrant ad for Canva.Imaginary Link: imgur.com/canva_magic_design_banner.png
-Impact:This banner increased click-through rates on the ad campaign by 22%.
+
 
