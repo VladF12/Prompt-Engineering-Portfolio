@@ -8,7 +8,7 @@
 - [A/B тесты для соцсетей](ab_testing_prompt.md)
 - [Обучающий контент для EdTech](edtech_content_prompt.md)
 - [Обложка для NFT-коллекции](nft_cover_prompt.md)
-- [Управление сообщестом ВК](WinNMusic.md)
+- [Управление сообщестом ВК](WinNMusic)
 - [Баннер для Canva](canva_banner_prompt.md)
 - [Обложка для урока EdTech](edtech_lesson_cover_prompt.md)
 - [Анализ данных для веб3 проекта](https://github.com/VladF12/Prompt-Engineering-Portfolio/blob/d3039e27849e3100f73ffa45af7babac2b2228a2/Data%20analysis%20for%20a%20web3%20project.md)
